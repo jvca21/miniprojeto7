@@ -1,0 +1,10 @@
+Capitulo1,Bem-vindo à sua jornada. Você está na aldeia de Início.,Siga a trilha|Explore a floresta
+Capitulo2,Na floresta, você encontra um misterioso vendedor ambulante.,Compre uma poção|Ignore o vendedor
+Capitulo3,A poção que você comprou revela um segredo surpreendente.,Investigue o segredo|Continue sua jornada
+Capitulo4,Enquanto investiga, você encontra um dragão adormecido.,Ataque o dragão|Fuja silenciosamente
+Capitulo5,A batalha com o dragão foi intensa, mas você saiu vitorioso.,Explorar a caverna|Seguir em frente
+Capitulo6,Na caverna, você encontra um tesouro misterioso.,Pegue o tesouro|Deixe o tesouro e siga em frente
+Capitulo7,Você é convidado para se juntar a uma guilda de heróis.,Aceitar o convite|Recusar o convite
+Capitulo8,Na guilda, você faz novos amigos e recebe uma missão importante.,Aceitar a missão|Negar a missão
+Capitulo9,A missão é enfrentar um exército de monstros invasores.,Liderar a batalha|Abandonar a missão
+Capitulo10,Com a vitória sobre os monstros, você se torna uma lenda viva.,Festejar com os amigos|Partir em busca de novas aventuras
